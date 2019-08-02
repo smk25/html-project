@@ -1,0 +1,123 @@
+*{
+  margin:0; padding:0;
+  box-sizing:border-box;
+  /* border:1px solid yellow; */
+  font-size:20px;
+  /* color:white; */
+}
+body{
+  background-color: #f4f7f9;
+  /* height:100vh; */
+}
+/* ***************trips page start ******************* */
+.header-links{
+  color:white;
+  text-decoration: none;
+  background: #162477;
+}
+.menu{
+  width: 100%;
+  background: #162477;
+}
+.ul{
+  background: #162477;
+  list-style-type: none;
+  width:36%;
+  margin:0 auto;
+  padding:20px 80px;
+}
+.ul div{
+  display:inline-block;
+  margin-left: 30px;
+}
+
+/* table styling stuff starts */
+table{
+  width: 85%;
+  margin:60px auto;
+  text-align: center;
+  /* background-color:lightcoral; */
+}
+td{
+  border: 20px solid transparent;  
+}
+caption{
+  font-size: 120%;
+  font-weight: bold;
+}
+.name{
+  /* font-size: 180%; */
+  padding:18px 0;
+  margin:0 auto;
+  width:400px;
+  text-transform: uppercase;
+  background-color:white;
+}
+/* table styling stuff ends */
+
+/* *******************TRIPS PAGE ENDS**************** */
+/* *************ABOUT PAGE STARTS******************* */
+
+article{
+  background-color: #f4f7f9;
+  width:75%;
+  margin:40px auto;
+  text-align: justify;
+}
+/* *************ABOUT PAGE ends******************* */
+
+/* ****************Contact Page starts************************** */
+.form-section{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  padding:40px;
+}
+.forms{
+  width:420px;
+  /* width: 50%; */
+  margin:0 auto;
+  background: #fff;
+  margin-top: 18px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+input{
+  width: 90%;
+  margin:20px;
+  border:none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  text-transform: capitalize;
+}
+.btn{
+  color:#fff;
+  border:none;
+  background-color:#162477;
+  width:100px;
+  padding: 15px;
+}
+
+footer{
+  width:100%;
+  background-color: #000;
+  margin-top:102px;
+  height:180px;
+  color: #fff;
+}
+.footer-div{
+  width:50%;
+  margin:10px auto;
+  height:150px;
+  text-align: center;
+  padding-top: 80px;
+}
+span{
+  text-transform: uppercase;
+  margin:0px 20px;
+}
+.footer-links{
+  text-decoration:none;
+  color:white;
+}
+/* ****************Contact Page sends************************** */
