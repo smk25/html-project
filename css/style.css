@@ -1,13 +1,10 @@
 *{
   margin:0; padding:0;
   box-sizing:border-box;
-  /* border:1px solid yellow; */
   font-size:20px;
-  /* color:white; */
 }
 body{
   background-color: #f4f7f9;
-  /* height:100vh; */
 }
 /* ***************trips page start ******************* */
 .header-links{
@@ -88,7 +85,6 @@ input{
   border:none;
   border-bottom: 1px solid #ccc;
   outline: none;
-  text-transform: capitalize;
 }
 .btn{
   color:#fff;
@@ -113,7 +109,6 @@ footer{
   padding-top: 80px;
 }
 span{
-  text-transform: uppercase;
   margin:0px 20px;
 }
 .footer-links{
